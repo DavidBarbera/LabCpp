@@ -1,0 +1,32 @@
+1.
+the Hello World program
+
+2.
+using namespace
+void
+
+3. 
+sizeof() to # of bytes for different types:
+
+things:
+-function overloading
+
+-type
+
+-declaration
+
+-object: some memorey that holds a value of some type.
+
+-value: set of bits interpreted according to a type.
+
+variable: a named object.
+
+C++ fundamental types:
+bool
+char: 8 bits
+int
+float
+double
+
+4.
+Tests on manipulating bits in a char-byte size variable.
